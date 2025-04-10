@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d63f932.css",
+    "main.js": "/static/js/main.785d9ded.js",
+    "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
+    "static/js/487.73c06acf.chunk.js": "/static/js/487.73c06acf.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.80ac22ff.chunk.js": "/static/js/990.80ac22ff.chunk.js",
+    "static/media/AlgoExpert.jpeg": "/static/media/AlgoExpert.4948d98f9330d6b6cde8.jpeg",
+    "static/media/hidubai.png": "/static/media/hidubai.bceb284f384111c8a7a0.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/inventum_unify_operations_billing_platform_for_service_providers_image.png": "/static/media/inventum_unify_operations_billing_platform_for_service_providers_image.0dcf92c68eb7d08309cb.png",
+    "static/media/mohap1.jpeg": "/static/media/mohap1.c362de7641c7e9e0acc6.jpeg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/resume.pdf": "/static/media/resume.e46574f13989ab58f987.pdf",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/AWS Cloud Practitioner.png": "/static/media/AWS Cloud Practitioner.1d4d9fa250269a5b5067.png",
+    "static/media/IGNOU-Preview.png": "/static/media/IGNOU-Preview.de30180daeadc78446e7.png",
+    "static/media/AWS Solutions Architect Associate Certificate.jpeg": "/static/media/AWS Solutions Architect Associate Certificate.59be37080a8bac1cac96.jpeg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/Optiedge.jpeg": "/static/media/Optiedge.021bf40bda9e01408b28.jpeg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "main.6d63f932.css.map": "/static/css/main.6d63f932.css.map",
+    "main.785d9ded.js.map": "/static/js/main.785d9ded.js.map",
+    "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
+    "487.73c06acf.chunk.js.map": "/static/js/487.73c06acf.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
+    "990.80ac22ff.chunk.js.map": "/static/js/990.80ac22ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d63f932.css",
+    "static/js/main.785d9ded.js"
+  ]
+}
